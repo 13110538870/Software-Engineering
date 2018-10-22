@@ -1,0 +1,1 @@
+This is a cheif SaleSystem GUI.You can click the "SaleSystem.exe" to run it.
